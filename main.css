@@ -1,0 +1,11 @@
+#main-area {
+    margin-top: 6rem;
+    padding: 2% 16%;
+}
+#latest-posts h3 {
+    font-size: 24px;
+    font-weight: 600;
+    text-align: left;
+    letter-spacing: -.6px;
+    line-height: 1.5;
+}

@@ -1,0 +1,32 @@
+#filter-container {
+    text-align: left;
+}
+
+#filter-container div {
+    display: flex;
+}
+#filter-icon {
+    width: 25px;
+    height: 25px;
+}
+#fbc {
+    font-size: .85em;
+    font-weight: 600;
+    margin-left: .5em;
+    margin-top: 5px;
+}
+
+.filter-data {
+    border-radius: 15px;
+    border: 1px solid #0084ff;
+    margin: 5px;
+    cursor: pointer;
+    font-size: .75em;
+    color: #0084ff;
+    padding: 6px 14px;
+    display: inline-block;
+}
+.filter-data:first-child {
+    color: #ffffff;
+    background: linear-gradient(269deg,#0048ff,#0096ff);
+}
